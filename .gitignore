@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.csv
+*.png
+dataset/
+dataset_tmp/
+mglearn/
