@@ -4,3 +4,4 @@
 dataset/
 dataset_tmp/
 mglearn/
+*.db
