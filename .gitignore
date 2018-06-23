@@ -5,3 +5,4 @@ dataset/
 dataset_tmp/
 mglearn/
 *.db
+*.h5
